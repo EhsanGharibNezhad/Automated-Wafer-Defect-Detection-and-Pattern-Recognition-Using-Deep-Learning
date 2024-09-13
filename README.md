@@ -27,4 +27,4 @@ Developed a deep learning-based framework for automated defect detection and pat
 
 To get a broad understanding of how this intricate process transforms tiny grains of sand into functional wafers, watch the following short video.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/a9K563V52VQ/0.jpg)](https://www.youtube.com/watch?v=a9K563V52VQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C9MtcvD7Gk8/0.jpg)](https://www.youtube.com/watch?v=C9MtcvD7Gk8&t=961s)
