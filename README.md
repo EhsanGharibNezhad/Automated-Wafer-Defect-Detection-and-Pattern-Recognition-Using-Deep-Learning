@@ -28,3 +28,17 @@ Developed a deep learning-based framework for automated defect detection and pat
 To get a broad understanding of how this intricate process transforms tiny grains of sand into functional wafers, watch the following short video.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C9MtcvD7Gk8/0.jpg)](https://www.youtube.com/watch?v=C9MtcvD7Gk8&t=961s)
+
+## Wafer Defect Types in the Dataset:
+The dataset includes several distinct **defect types** typically found in semiconductor manufacturing. Here’s a list of the common defect patterns:
+
+1. **Center**: Defects are concentrated at the center of the wafer.
+2. **Donut**: A ring-shaped pattern, where defects are found surrounding a relatively defect-free center.
+3. **Edge-Ring**: Defects appear around the edge of the wafer in a ring-like shape.
+4. **Edge-Loc**: Defects are localized near the wafer’s edge.
+5. **Loc**: Localized defects that appear in specific, concentrated regions.
+6. **Random**: Defects are scattered randomly across the wafer, with no discernible pattern.
+7. **Scratch**: A linear pattern of defects, often caused by physical damage or contamination.
+
+![image](https://github.com/user-attachments/assets/4dd18878-4153-4c45-94c0-51ae72d21d05)
+
